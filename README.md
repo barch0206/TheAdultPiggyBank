@@ -90,5 +90,3 @@ adult-piggy-bank/
 * PWA (Progressive Web App) support for mobile
 
 ---
- me to add a short **“Microservice communication diagram”** (in ASCII or Mermaid) inside this README to make it visually clearer how React → Node → Spring Boot interact?
-```
